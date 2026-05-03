@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fatema Doctor 👋</h1>
 
 <p align="center">
-  <strong>BSc Data Science & AI (Predicted First-Class) · NHS Digital Analyst · US Tech Intern</strong><br/>
+  <strong>BSc Data Science & AI (Predicted First-Class) </strong><br/>
   University of East London &nbsp;|&nbsp; Barts Health NHS Trust &nbsp;|&nbsp; Tampa Bay Wave / PikMyKid
 </p>
 
@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a final-year Data Science & AI student graduating in June 2026 with a predicted First-Class degree from the University of East London. I work in the NHS at Barts Health NHS Trust, and I'm heading to Tampa, Florida this summer to intern at **PikMyKid** (a US edtech safety platform) through the **Tampa Bay Wave** accelerator programme — one of Florida's top startup ecosystems.
+I'm a final-year Data Science & AI student graduating in June 2026 with a predicted First-Class degree from the University of East London.
 
 I combine strong technical skills (Python, SQL, Power BI, machine learning) with real-world experience in NHS information governance, clinical environments, and IT infrastructure. I'm looking for graduate roles in **NHS data analytics**, **IT/tech consulting**, or **IT service delivery** — anywhere I can use data to make systems work better for people.
 
@@ -48,16 +48,14 @@ Governance       NHS IG · GDPR · RBAC · SSL/TLS · data protection standards
 | Project | What it shows | Stack |
 |---|---|---|
 | [🔋 GridGuardian — UK Grid Instability](https://github.com/Fatema-Dr/UK-Grid-instability) | ML pipeline that predicted the August 2019 UK blackout; LightGBM + LSTM + SHAP explainability, live Streamlit dashboard | Python, Scikit-learn, Keras, SHAP, Streamlit |
-<!--| [🏥 MediCareTrack — Healthcare DB System](https://github.com/Fatema-Dr/MediCareTrack) | Relational DB design for Newham Hospital addressing CQC findings; RBAC, GDPR-compliant schema, UML diagrams | SQL, ER modelling, RBAC, UML | -->
 | [📊 NHS A&E Analytics Dashboard](https://github.com/Fatema-Dr/NHS-AE-Analytics-Dashboard) | Interactive dashboard on NHS England open data — regional waiting time trends, performance benchmarking | Python, Plotly, Pandas, NHS Open Data |
 | [🎓 Global University Rankings Analysis](https://github.com/Fatema-Dr/Global-University-Rankings) | EDA + cross-ranking comparison (QS, THE, CWUR); what actually predicts a top-20 finish | Python, Pandas, Seaborn, Plotly |
 | [🏋️ Gym Management System](https://github.com/Fatema-Dr/Gym-Management-System-Database-Project) | Full relational database with normalised schema, stored procedures, and CRUD operations | SQL, MySQL |
 
+<!--| [🏥 MediCareTrack — Healthcare DB System](https://github.com/Fatema-Dr/MediCareTrack) | Relational DB design for Newham Hospital addressing CQC findings; RBAC, GDPR-compliant schema, UML diagrams | SQL, ER modelling, RBAC, UML | -->
 ---
 
 ## Academic highlights
-
-> Consistent near-perfect module scores across all core data and systems subjects
 
 | Module | Score |
 |---|---|
@@ -86,10 +84,4 @@ Governance       NHS IG · GDPR · RBAC · SSL/TLS · data protection standards
 `NHS Graduate DDaT Scheme` · `Data Analyst (Band 5)` · `IT Service Desk` · `Junior Tech Consultant`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatema-Dr&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema-Dr&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
-
 <p align="center"><em>Open to graduate roles in NHS digital, data analytics, IT consulting, and service delivery — UK and international.</em></p>
